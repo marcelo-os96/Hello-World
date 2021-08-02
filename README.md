@@ -1,2 +1,2 @@
 # Hello World
- Github testing repository
+ Git/Github Testing Repository
